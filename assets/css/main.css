@@ -3467,10 +3467,10 @@ input, select, textarea {
 				}
 
 				#banner > .inner .content p {
-					font-size: 0.7em;
+					font-size: 1em;
 					font-weight: 600;
-					letter-spacing: 0.25em;
-					text-transform: uppercase;
+					letter-spacing: 0.15em;
+					/* text-transform: uppercase; */
 				}
 
 		#banner.major {
@@ -3701,14 +3701,14 @@ input, select, textarea {
 /* Footer */
 
 	#footer .copyright {
-		font-size: 0.8em;
+		font-size: 0.9em;
 		list-style: none;
 		padding-left: 0;
 	}
 
 		#footer .copyright li {
 			border-left: solid 1px rgba(212, 212, 255, 0.1);
-			color: rgba(244, 244, 255, 0.2);
+			color: rgba(244, 244, 255, 0.8);
 			display: inline-block;
 			line-height: 1;
 			margin-left: 1em;
