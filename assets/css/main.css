@@ -2756,7 +2756,7 @@ input, select, textarea {
 			background-size: contain;
             background-color: #000;
 			cursor: default;
-			min-height: 30em;
+			min-height: 32em;
             
 			overflow: hidden;
 			position: relative;
@@ -2863,15 +2863,7 @@ input, select, textarea {
 
 			.tiles article {
 				padding: 4em 3em 2em 3em ;
-				min-height: 30em;
-			}
-
-		}
-        
-		@media screen and (max-width: 980px) {
-
-			.tiles article {
-				/* width: 50% !important; */
+				min-height: 28em;
 			}
 
 		}
@@ -2880,7 +2872,7 @@ input, select, textarea {
 
 			.tiles article {
 				padding: 3em 1.5em 1em 1.5em ;
-				min-height: 0;
+				min-height: 20em;
 			}
 
 				.tiles article h3 {
