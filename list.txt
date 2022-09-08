@@ -1,0 +1,6 @@
+- https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1
+- https://github.com/ericliu0000/RMath2022 rmath jterm
+- https://github.com/ericliu0000/Positive-Triangle-Game ma4500
+- https://www.youtube.com/watch?v=Xj2YT8E9vnU&t=41s 19376 control award video 
+- https://www.youtube.com/watch?v=cKwL8fyhauQ 19376 intro to pid control
+- https://github.com/ericliu0000/Terrain-Waypoints-videos (private)
